@@ -1,3 +1,12 @@
+# Executavel gerado pela compilacao
+linf
+
+# Arquivos objeto de C
+*.o
+
+# Arquivos do macOS
+.DS_Store
+
 # Prerequisites
 *.d
 
